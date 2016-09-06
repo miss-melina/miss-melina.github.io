@@ -79,9 +79,10 @@ nav a {
 /* NAV side bar ----------------------------*/
 .side-nav {
 	border-radius: 1px;
+	border: 1px solid #185ca0;
 	background-color: #d4d4d4;
-	height: 40px;
-	width:150px;
+	height: 60px;
+	width:200px;
 	top: 180px;
 	right: 0px;
 	opacity: 0.5;
