@@ -95,7 +95,7 @@ nav a {
 	border: 1px solid #185ca0;
 	
 	float: right;
-	display: inline;
+	display: inline-block;
 }
 
 /* NAV side bar ----------------------------*/
