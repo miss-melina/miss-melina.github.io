@@ -75,8 +75,8 @@ nav a {
 
 /* END of Nav bar top link ------------------------------------- */
 
-.right {
-	margin:; 0;
+.middle {
+	margin: 0;
 	padding: 0;
 	width: 60%;
 	height: 400px;
@@ -84,6 +84,17 @@ nav a {
 	border: 1px solid #185ca0;
 	top: 10px;
 	margin-left: 210px;
+}
+
+.right {
+	margin: 0;
+	padding: 0;
+	width: 15%;
+	height: 400px;
+	background-color: #FFFFFF;
+	border: 1px solid #185ca0;
+	top: 10px;
+	margin-left: 700px;
 }
 
 /* NAV side bar ----------------------------*/
