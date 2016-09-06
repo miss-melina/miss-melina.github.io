@@ -67,6 +67,8 @@ nav a {
 
 /* END of Nav bar top link ------------------------------------- */
 
+
+/* NAV side bar ----------------------------*/
 .nav {
 	border-radius: 1px;
 	background-color: #d4d4d4;
@@ -83,6 +85,11 @@ nav a {
 	margin: auto;
 	background-color: #2d2929;
 	border: 1px solid #2d2929;
+}
+
+.nav-title {
+	
+	background color: red;
 }
 
 .right {
