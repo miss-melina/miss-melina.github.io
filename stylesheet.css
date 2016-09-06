@@ -112,13 +112,14 @@ nav a {
 }
 
 .right {
-	/*float: right;*/
+	float: left;
+	clear: left;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	width: 70%;
 	height: 400px;
 	background-color: #FFF;
 	border: 1px solid #185ca0;
-	top: 80px;
+	top: 50px;
 }
 
