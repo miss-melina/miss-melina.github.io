@@ -14,6 +14,12 @@ body {
 	border:1px solid #185ca0;
 }
 
+nav a {
+  height: 60px;
+  line-height: 60px;
+  color: #185ca0;
+  text-decoration: none;
+}
 
 .nav {
 	border-radius: 1px;
