@@ -12,8 +12,7 @@ h1 {
 	width: 70%;
 	background-color: #2d2929;
 	border: 1px solid #2d2929;
-	top:80px;
-	margin: auto;
+	top:140px;
 	position: fixed;
 }
 
@@ -65,6 +64,7 @@ nav li {
 
 nav ul {
   display: inline;
+  list-style: none;
 }
 
 nav a {
