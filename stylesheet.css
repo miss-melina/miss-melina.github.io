@@ -13,12 +13,13 @@ h1 {
 
 
 .nav {
-	border-radius: 5px;
+	border-radius: 1px;
 	background-color: #d4d4d4;
 	height: 40px;
-	width:70px;
+	width:150px;
 	top: 180px;
 	right: 0px;
+	opacity: 30;
 }
 
 .titlebar {
