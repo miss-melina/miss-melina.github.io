@@ -4,6 +4,8 @@ h1 {
 	font-size: 4em;
 	color:#2d2929;
 	top: 20 px;
+	margin: 0;
+	padding 0;
 }
 .titlebar {
 	height: 2px;
@@ -12,7 +14,6 @@ h1 {
 	border: 1px solid #2d2929;
 	top:80px;
 	margin: 0 auto;
-	padding: 10 px;
 }
 
 body {
