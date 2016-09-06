@@ -14,6 +14,21 @@ body {
 	border:1px solid #185ca0;
 }
 
+/* PINK button ------------- */
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: #fbd1d5;
+  text-shadow: none;
+  background-color: #ffffff;
+}
+
+.btn.btn-primary:hover {
+  color: #ffffff;
+  background-color: #fbd1d5;
+}
+
+
 
 /* NAV top bar -------------------------------------------------------- */
 
