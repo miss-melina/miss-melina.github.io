@@ -89,10 +89,10 @@ nav a {
 }
 
 
-.nav-title {
+.side-nav a{
 	font-family: Lato;
 	font-size: 30px;
-	background color: red;
+	color: red;
 }
 
 .right {
