@@ -1,17 +1,18 @@
 h1 {
+	top: 20 px;
 	text-align: center;
 	font-family: Calisto MT, Dotum, Times New Roman;
 	font-size: 4em;
 	color:#2d2929;
-	top: 20 px;
+	position: fixed;
 }
 
 .titlebar {
 	height: 2px;
 	width: 70%;
-	margin: auto;
 	background-color: #2d2929;
 	border: 1px solid #2d2929;
+	position: fixed;
 }
 
 body {
@@ -23,13 +24,6 @@ body {
 }
 
 /* PINK button ------------- */
-.pink-button {
-  border-radius: 2px;
-  border: 0px;
-  color: #185ca0;
-  text-shadow: none;
-  background-color: #ffffff;
-}
 
 .pink-button a {
   cursor: pointer;
@@ -38,13 +32,18 @@ body {
   border: 1px solid #185ca0;
   position: relative;
 }
-
+.pink-button {
+  border-radius: 2px;
+  border: 0px;
+  color: #185ca0;
+  text-shadow: none;
+  background-color: #ffffff;
+}
 .pink-button:hover {
   color: #ffffff;
   background-color: #fce3e6;
 }
-
-.pink-button{
+.pink-button {
   float: right;
 }
 
@@ -55,8 +54,6 @@ nav {
   background-color: #FFF;
   font-family: Calisto MT, Dotum, Times New Roman;
 }
-
-
 
 nav li {
   display: inline;
