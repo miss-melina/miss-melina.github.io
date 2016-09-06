@@ -97,7 +97,7 @@ nav a {
 	
 	float: right;
 	position: relative;
-	display: block;
+	display: inline;
 }
 
 /* NAV side bar ----------------------------*/
