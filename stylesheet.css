@@ -18,9 +18,17 @@ body {
 .pink-button {
   border-radius: 2px;
   border: 0px;
-  color: #fbd1d5;
+  color: #185ca0;
   text-shadow: none;
   background-color: #ffffff;
+}
+
+.pink-button a {
+  cursor: pointer;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #185ca0;
+  position: relative;
 }
 
 .pink-button:hover {
@@ -28,6 +36,9 @@ body {
   background-color: #fbd1d5;
 }
 
+.pink-button{
+  float: right;
+}
 
 
 /* NAV top bar -------------------------------------------------------- */
@@ -47,27 +58,8 @@ nav ul {
   display: inline;
 }
 
-.contact-btn {
-  float: right;
-}
 
-.contact-btn a {
-  cursor: pointer;
-  margin-right: 30px;
-  padding: 8px 18px;
-  border: 1px solid #185ca0;
-  
-  position: relative;
 
-}
-
-.contact-btn a:active {
-	top: 2px;
-}
-
-.contact-btn {
-  float: right;
-}
 
 nav a {
   height: 60px;
