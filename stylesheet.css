@@ -12,8 +12,8 @@ div {
 
 .titlebar {
 	height: 3px;
-	width: 700px;
-	text-align: center;
+	width: 70%;
+	margin: auto;
 	background-color: #2d2929;
 	
 }
