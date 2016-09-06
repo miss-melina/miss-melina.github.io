@@ -3,6 +3,7 @@ h1 {
 	font-family: Calisto MT, Dotum, Times New Roman;
 	font-size: 4em;
 	color:#2d2929;
+	padding: 40 px;
 }
 
 
@@ -15,7 +16,6 @@ div {
 	width: 70%;
 	margin: auto;
 	background-color: #2d2929;
-	
 }
 
 
