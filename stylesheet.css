@@ -85,7 +85,6 @@ nav a {
 	top: 10px;
 	margin-left: 210px;
 	
-	display: inline-block;
 }
 
 .right {
@@ -97,6 +96,7 @@ nav a {
 	border: 1px solid #185ca0;
 	
 	float: right;
+	position: relative;
 	display: inline-block;
 }
 
