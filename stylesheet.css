@@ -6,6 +6,14 @@ h1 {
 	top: 40 px;
 }
 
+.titlebar {
+	height: 2px;
+	width: 70%;
+	margin: auto;
+	background-color: #2d2929;
+	border: 1px solid #2d2929;
+}
+
 body {
 	height: 80%;
 	margin: 0;
@@ -69,7 +77,7 @@ nav a {
 
 
 /* NAV side bar ----------------------------*/
-.nav {
+.side-nav {
 	border-radius: 1px;
 	background-color: #d4d4d4;
 	height: 40px;
@@ -79,13 +87,6 @@ nav a {
 	opacity: 0.5;
 }
 
-.titlebar {
-	height: 2px;
-	width: 70%;
-	margin: auto;
-	background-color: #2d2929;
-	border: 1px solid #2d2929;
-}
 
 .nav-title {
 	
