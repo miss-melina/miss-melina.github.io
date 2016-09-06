@@ -1,7 +1,7 @@
 h1 {
 	text-align: center;
 	font-family: Calisto MT, Dotum, Times New Roman;
-	font-size: 2em;
+	font-size: 4em;
 	color:#2d2929;
 }
 
@@ -12,8 +12,8 @@ div {
 
 .titlebar {
 	height: 3px;
-	width: 70px;
-	position: center;
+	width: 700px;
+	text-align: center;
 	background-color: #2d2929;
 	
 }
