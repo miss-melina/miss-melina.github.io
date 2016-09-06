@@ -15,7 +15,7 @@ body {
 }
 
 /* PINK button ------------- */
-.btn.btn-primary {
+.pink-button {
   border-radius: 2px;
   border: 0px;
   color: #fbd1d5;
@@ -23,7 +23,7 @@ body {
   background-color: #ffffff;
 }
 
-.btn.btn-primary:hover {
+.pink-button:hover {
   color: #ffffff;
   background-color: #fbd1d5;
 }
