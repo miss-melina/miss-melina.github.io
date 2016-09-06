@@ -6,10 +6,6 @@ h1 {
 	top: 40 px;
 }
 
-.container {
-  width: 960px;
-
-}
 
 
 .nav {
@@ -40,34 +36,3 @@ h1 {
 	margin-bottom: 10px;
 }
 
-
-/* MENU */
-.header .menu {
-  float: right;
-  list-style: none;
-  margin-top: 5px;
-}
-
-.menu > li {
-  display: inline;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.menu a {
-  color: #898989;
-}
-
-/* Dropdown */
-
-.dropdown-menu {
-  font-size: 16px;
-  margin-top: 5px;
-  min-width: 105px;
-}
-
-.dropdown-menu li a {
-  color: #898989;
-  padding: 6px 20px;
-  font-weight: 300;
-}
