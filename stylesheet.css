@@ -83,7 +83,7 @@ nav a {
 	background-color: #FFFFFF;
 	border: 1px solid #185ca0;
 	top: 10px;
-	left: 80px;
+	margin-left: 90px;
 }
 
 /* NAV side bar ----------------------------*/
@@ -92,8 +92,9 @@ nav a {
 	height: 60px;
 	width:200px;
 	top: 180px;
-	right: 0px;
+	/*right: 0px;*/
 	opacity: 0.5;
+	float: left
 }
 
 .side-nav ul {
