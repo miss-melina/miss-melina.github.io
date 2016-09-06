@@ -112,8 +112,6 @@ nav a {
 }
 
 .right {
-	float: left;
-	clear: left;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	width: 70%;
@@ -121,5 +119,6 @@ nav a {
 	background-color: #FFF;
 	border: 1px solid #185ca0;
 	top: 50px;
+	left: 250;
 }
 
