@@ -14,12 +14,34 @@ body {
 	border:1px solid #185ca0;
 }
 
+
+/* NAV top bar*/
 nav a {
   height: 60px;
   line-height: 60px;
   color: #185ca0;
   text-decoration: none;
 }
+
+nav {
+  background-color: #FFF;
+}
+
+nav li {
+  display: inline;
+  margin: 0;
+  padding: 0 10px;
+}
+
+nav ul {
+  display: inline;
+}
+
+.contact-btn {
+  float: right;
+}
+
+/* END of Nav bar top link*/
 
 .nav {
 	border-radius: 1px;
