@@ -93,8 +93,9 @@ nav a {
 	height: 400px;
 	background-color: #FFFFFF;
 	border: 1px solid #185ca0;
-	top: 10px;
+	
 	float: right;
+	display: inline;
 }
 
 /* NAV side bar ----------------------------*/
