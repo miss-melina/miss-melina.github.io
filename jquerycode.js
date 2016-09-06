@@ -1,3 +1,3 @@
 	$(document).ready(function(){
-		alert("I'm Working");
+		alert("CURRENTLY UNDER CONSTRUCTION");
 	});
