@@ -89,10 +89,15 @@ nav a {
 }
 
 
-.side-nav a{
+.side-nav li{
 	font-family: Lato;
 	font-size: 30px;
-	color: red;
+	color: black;
+	border-bottom: 1px solid #185ca0;
+	line-height: 45px;
+	padding-bottom: 3px;
+	padding-left: 20px;
+	padding-top: 3px;
 }
 
 .right {
