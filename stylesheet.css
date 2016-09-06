@@ -12,10 +12,11 @@ div {
 }
 
 .titlebar {
-	height: 3px;
+	height: 2px;
 	width: 70%;
 	margin: auto;
 	background-color: #2d2929;
+	border: 1px solid #2d2929;
 }
 
 
