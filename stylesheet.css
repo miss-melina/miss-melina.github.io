@@ -6,6 +6,10 @@ h1 {
 	top: 40 px;
 }
 
+.container {
+  width: 960px;
+}
+
 
 div {
 	border-radius: 5px;
