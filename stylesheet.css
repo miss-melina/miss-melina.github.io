@@ -95,10 +95,11 @@ nav a {
 .right {
 	float: right;
 	margin-top: 50px;
-	margin-bottom: 10px;
-	width: 88%;
+	margin-bottom: 20px;
+	width: 80%;
 	height: 400px;
-	background-color: #F4EBC3;
+	background-color: #FFF;
+	border: 1px solid 185ca0;
 	top: 180px;
 }
 
