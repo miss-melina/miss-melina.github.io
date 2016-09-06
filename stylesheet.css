@@ -12,8 +12,13 @@ h1 {
 }
 
 
-div {
+.nav {
 	border-radius: 5px;
+	background-color: #d4d4d4;
+	height: 40px;
+	width:70px;
+	top: 180px;
+	right: 0px;
 }
 
 .titlebar {
