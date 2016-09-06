@@ -112,13 +112,13 @@ nav a {
 }
 
 .right {
-	margin-top: 20px;
-	margin-bottom: 20px;
-	width: 70%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 60%;
 	height: 400px;
-	background-color: #FFF;
+	background-color: #185ca0;
 	border: 1px solid #185ca0;
 	top: 50px;
-	left: 250;
+	left: 250px;
 }
 
