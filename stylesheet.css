@@ -89,7 +89,8 @@ nav a {
 
 
 .nav-title {
-	
+	font-family: Lato;
+	font-size: 30px;
 	background color: red;
 }
 
@@ -97,7 +98,7 @@ nav a {
 	float: right;
 	margin-top: 50px;
 	margin-bottom: 20px;
-	width: 80%;
+	width: 70%;
 	height: 400px;
 	background-color: #FFF;
 	border: 1px solid #185ca0;
