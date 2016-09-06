@@ -75,6 +75,17 @@ nav a {
 
 /* END of Nav bar top link ------------------------------------- */
 
+.right {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 0;
+	width: 60%;
+	height: 400px;
+	background-color: #FFFFFF;
+	border: 1px solid #185ca0;
+	top: 10px;
+	left: 250px;
+}
 
 /* NAV side bar ----------------------------*/
 .side-nav {
@@ -111,14 +122,5 @@ nav a {
   text-transform: uppercase;
 }
 
-.right {
-	margin-top: 10px;
-	margin-bottom: 10px;
-	width: 60%;
-	height: 400px;
-	background-color: #185ca0;
-	border: 1px solid #185ca0;
-	top: 50px;
-	left: 250px;
-}
+
 
