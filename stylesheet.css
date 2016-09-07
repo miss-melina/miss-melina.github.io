@@ -109,7 +109,7 @@ img {
 	border-radius: 1px;
 	height: 60px;
 	width:200px;
-	top: 200px;
+	top: 250px;
 	opacity: 0.5;
 	float: left;
 }
@@ -129,7 +129,7 @@ img {
 	line-height: 45px;
 	padding-bottom: 3px;
 	padding-left: 20px;
-	padding-top: 3px;
+	padding-top: 5px;
 }
 
 .side-nav a {
