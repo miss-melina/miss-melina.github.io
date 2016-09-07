@@ -23,9 +23,10 @@ h1 {
 	height: 2px;
 	width: 80%;
 	background-color: #2d2929;
-	border: 5px solid #FFFFFF;
+	/*border: 5px solid #FFFFFF;*/
 	top:80px;
 	margin: 0 auto;
+	padding:  5px;
 }
 .main-body{
 	height: auto;
@@ -37,13 +38,14 @@ h1 {
 	height: 20px;
 	width: 900px;
 	margin-bottom: 20px;
+	clear: both;
 }
 
 img {
 	width: 50%;
 	height: 100%;
 	text-align: center;
-	padding:; 0px;
+	padding: 0px;
 	margin: 0px;
 	
 }
