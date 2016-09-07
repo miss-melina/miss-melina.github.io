@@ -4,7 +4,7 @@
 	width: 900px;
 	height: auto;
 	background-color: #FFFFFF;
-	border: 1px solid #185ca0;
+	border: 10px solid #185ca0;
 	
 	margin-left: auto;
 	margin-right: auto;
@@ -16,7 +16,6 @@ h1 {
 	font-family: Calisto MT, Dotum, Times New Roman;
 	font-size: 4em;
 	color:#2d2929;
-	top: 20 px;
 	margin: 0;
 	padding 0;
 }
@@ -34,13 +33,17 @@ h1 {
 	float: right;
 	
 }
+.footer{
+	height: 20px;
+	width: 900px;
+}
 
 img {
 	width: 50%;
 	height: 100%;
 	text-align: center;
-	padding:; 10px;
-	margin: 10px;
+	padding:; 0px;
+	margin: 0px;
 	
 }
 
