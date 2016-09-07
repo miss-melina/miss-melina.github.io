@@ -78,7 +78,7 @@ nav a {
 .container {
 	margin: 0;
 	padding: 0;
-	width: 70%;
+	width: 80%;
 	height: 400px;
 	background-color: #FFFFFF;
 	border: 1px solid #185ca0;
@@ -87,7 +87,7 @@ nav a {
 }
 
 img {
-	width: 80%;
+	width: 60%;
 	height: 100%;
 	text-align: center;
 	padding:; 10px;
