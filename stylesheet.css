@@ -14,6 +14,7 @@ h1 {
 	border: 1px solid #2d2929;
 	top:80px;
 	margin: 0 auto;
+	padding: 10px;
 }
 
 body {
@@ -140,7 +141,7 @@ img {
   text-transform: uppercase;
 }
 
-.side-nav:hover {
+.side-nav li :hover {
   color: #ffffff;
   background-color: #2d2929;
 }
