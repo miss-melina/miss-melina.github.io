@@ -109,10 +109,10 @@ img {
 	border-radius: 1px;
 	height: 60px;
 	width:200px;
-	top: 180px;
-	/*right: 0px;*/
+	top: 200px;
 	opacity: 0.5;
 	float: left
+	position: fixed;
 }
 
 .side-nav ul {
