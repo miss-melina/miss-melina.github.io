@@ -38,13 +38,11 @@ body {
   color: #185ca0;
   text-shadow: none;
   background-color: #ffffff;
+  float: right;
 }
 .pink-button:hover {
   color: #ffffff;
   background-color: #fce3e6;
-}
-.pink-button {
-  float: right;
 }
 
 
