@@ -1,3 +1,17 @@
+
+.container {
+	margin: 10px;
+	padding: 0px;
+	width: 80%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	background-color: #FFFFFF;
+	border: 1px solid #185ca0;
+	top: 10px;
+	margin-left: 230px;
+}
 h1 {
 	text-align: center;
 	font-family: Calisto MT, Dotum, Times New Roman;
@@ -15,13 +29,15 @@ h1 {
 	top:80px;
 	margin: 0 auto;
 }
-
-body {
-	height: 80%;
-	margin: 0;
+img {
+	width: 50%;
+	height: 100%;
 	text-align: center;
-	width: 100%;
+	padding:; 10px;
+	margin: 10px;
+	
 }
+
 
 /* PINK button ------------- */
 
@@ -44,65 +60,6 @@ body {
   color: #ffffff;
   background-color: #fce3e6;
 }
-
-
-/* NAV top bar -------------------------------------------------------- */
-
-nav {
-  background-color: #FFF;
-  font-family: Calisto MT, Dotum, Times New Roman;
-}
-
-nav li {
-  display: inline;
-  margin: 0;
-  padding: 0 10px;
-}
-
-nav ul {
-  display: inline;
-  list-style: none;
-}
-
-nav a {
-  height: 60px;
-  line-height: 60px;
-  color: #185ca0;
-  text-decoration: none;
-}
-
-/* END of Nav bar top link ------------------------------------- */
-
-.container {
-	margin: 10px;
-	padding: 0px;
-	width: 80%;
-	height: 400px;
-	background-color: #FFFFFF;
-	border: 1px solid #185ca0;
-	top: 10px;
-	margin-left: 230px;
-}
-
-img {
-	width: 50%;
-	height: 100%;
-	text-align: center;
-	padding:; 10px;
-	margin: 10px;
-	
-}
-
-/*.middle {
-	margin: 0;
-	padding: 0;
-	width: 60%;
-	height: 400px;
-	background-color: #FFFFFF;
-	border: 1px solid #185ca0;
-	top: 10px;
-	margin-left: 250px;
-}*/
 
 /* NAV side bar ----------------------------*/
 .side-nav {
@@ -142,4 +99,41 @@ img {
   color: #ffffff;
   background-color: #2d2929;
 }
+/* NAV top bar -------------------------------------------------------- */
+/*nav {
+  background-color: #FFF;
+  font-family: Calisto MT, Dotum, Times New Roman;
+}
+
+nav li {
+  display: inline;
+  margin: 0;
+  padding: 0 10px;
+}
+
+nav ul {
+  display: inline;
+  list-style: none;
+}
+
+nav a {
+  height: 60px;
+  line-height: 60px;
+  color: #185ca0;
+  text-decoration: none;
+}*/
+/* END of Nav bar top link ------------------------------------- */
+
+
+
+/*.middle {
+	margin: 0;
+	padding: 0;
+	width: 60%;
+	height: 400px;
+	background-color: #FFFFFF;
+	border: 1px solid #185ca0;
+	top: 10px;
+	margin-left: 250px;
+}*/
 
