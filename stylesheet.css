@@ -140,5 +140,8 @@ img {
   text-transform: uppercase;
 }
 
-
+.side-nav:hover {
+  color: #ffffff;
+  background-color: #2d2929;
+}
 
