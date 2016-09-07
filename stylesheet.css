@@ -9,7 +9,7 @@ h1 {
 }
 .titlebar {
 	height: 1px;
-	width: 70%;
+	width: 80%;
 	background-color: #2d2929;
 	border: 1px solid #2d2929;
 	top:80px;
@@ -83,7 +83,7 @@ nav a {
 	background-color: #FFFFFF;
 	border: 1px solid #185ca0;
 	top: 10px;
-	margin-left: 250px;
+	margin-left: 230px;
 }
 
 img {
