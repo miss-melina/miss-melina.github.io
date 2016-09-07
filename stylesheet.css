@@ -23,10 +23,10 @@ h1 {
 	height: 2px;
 	width: 80%;
 	background-color: #2d2929;
-	/*border: 5px solid #FFFFFF;*/
+	border: 5px solid #FFFFFF;
 	top:80px;
 	margin: 0 auto;
-	padding:  5px;
+	padding:  0px;
 }
 .main-body{
 	height: auto;
