@@ -6,7 +6,7 @@
 	
 var main = function() {
 	/*alert("UNDER CONSTRUCTION");	*/
-	     $('.slide-left').click(function(){
+	     $('img').click(function(){
                 //animate image position left
                 
                 $('img').animate({ left: '+=100px'},500);
