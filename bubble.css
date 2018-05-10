@@ -2,7 +2,7 @@
 
 /* Bubble Container */
 .bubble {
-    position: absolute;
+    position: relative;
     display: inline-block;
 }
 
