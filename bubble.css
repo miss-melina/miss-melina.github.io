@@ -30,16 +30,16 @@
 
 
 -/* Tooltip arrow */
--.bubble .bubbletext::after {
--    content: "";
--    position: absolute;
--    top: 50%; /* Will Place Arrow at the center */
--    right: 100%; /* Places arrow left */
--    margin-left: -5px;
--    border-width: 5px;
--    border-style: solid;
--    border-color: #2e3033 transparent transparent transparent;
--}
+.bubble .bubbletext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #2e3033 transparent transparent transparent;
+}
 
 
 /* Show the tooltip text when you mouse over the tooltip container */
