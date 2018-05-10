@@ -9,7 +9,7 @@
 /* Bubble text */
 .bubble .bubbletext {
     visibility: hidden;
-    width: 120px;
+    width: 150px;
     background-color: #555;
     color: #ffffff;
     text-align: center;
@@ -21,7 +21,7 @@
     z-index: 1;
     bottom: 125%;
     left: 50%;
-    margin-left: -60px;
+    margin-left: -80px;
 
     /* Fade in tooltip */
     opacity: 0;
