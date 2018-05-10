@@ -31,12 +31,12 @@
 
 -/* Tooltip arrow */
 .bubble .bubbletext::after {
-    content: "";
+    content: " ";
     position: absolute;
     right: 100%;
     top: 50%;
     margin-left: -5px;
-    border-width: 50px;
+    border-width: 5px;
     border-style: solid;
     border-color: transparent black transparent transparent;
 }
