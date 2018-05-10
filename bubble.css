@@ -19,9 +19,9 @@
     /* Position the tooltip text */
     position: absolute;
     z-index: 1;
-    bottom: 100%;
-    left: 10%;
-    margin-left: -10px;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -50px;
 
     /* Fade in tooltip */
     opacity: 0;
