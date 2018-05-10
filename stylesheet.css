@@ -156,7 +156,7 @@ nav a {
 
 
 
-/* TESTING TOOL TIP -------------------------------------------------------*/
+/* TESTING BUBBLE TOOL TIP -------------------------------------------------------*/
 
 /* Tooltip container */
 .tooltip {
@@ -177,9 +177,9 @@ nav a {
     /* Position the tooltip text */
     position: absolute;
     z-index: 1;
-    bottom: 125%;
-    left: 50%;
-    margin-left: -60px;
+    bottom: 100%;
+    left: 10%;
+    margin-left: -10px;
 
     /* Fade in tooltip */
     opacity: 0;
