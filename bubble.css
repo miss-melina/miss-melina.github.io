@@ -1,0 +1,47 @@
+/* TESTING BUBBLE TOOL TIP -------------------------------------------------------*/
+
+/* Bubble Container */
+.bubble {
+    position: absolute;
+    display: inline-block;
+}
+
+/* Bubble text */
+.bubble .bubbletext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 5px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 10%;
+    margin-left: -10px;
+
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.bubble .bubbletext::after {
+    content: "";
+    position: absolute;
+    top: 100%; /* Will Place Arrow at the bottom */
+    left: 50%; /* Places arrow in the center */
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #185ca0 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.bubble:hover .bubbletext {
+    visibility: visible;
+    opacity: 1;
+}
